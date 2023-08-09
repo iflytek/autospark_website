@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: autoSpark to GitHub Pages
 
 on:
   push:
