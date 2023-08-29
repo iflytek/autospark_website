@@ -1,0 +1,4 @@
+- 在终端使用 git clone https://github.com/iflytek/autospark_website.git 或直接从 GitHub 页面下载 zip 格式的 repo。
+- 使用 cd autoSpark 浏览到该目录，然后创建 config_template.yaml 的副本，并将其命名为 config.yaml。
+- 确保系统中已安装 Docker，如果没有，请从此处安装。
+- 运行 Docker Desktop 后，在 SuperAGI 目录下运行命令：docker compose up --build。打开浏览器，转到 localhost:3000 查看正在运行的 SuperAGI。
